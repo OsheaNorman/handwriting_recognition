@@ -108,6 +108,7 @@ Dès le demarrage de l'application, la vue principale s'affiche comportant une z
   3. Après un envoi, la zone de dessin est effacé et laisse la possiblité à l'utilisateur d'écrire un nouveau mot.
 
 #### Évolution
+L'application a été pensé et développé en tant qu'étape d'un projet plus grand qui sera repris par une autre équipe complètement différente de la nôtre. Nous avons donc facilité cette reprise par l'ajout de nombreux commentaires, un découpage du code pour permettre une maintenance plus simple. De plus le fait que l'application se résume à une seule activité permettra une implémentation aisée lors de l'ajout dans une application plus large. Les évolutions possibles de l'application sont du coté design et interaction avec l'utilisateur que ce soit dans la prise en main de l'application mais aussi un affichage plus clair des réponses du réseau de neurones.Chose explorée dans la version Experte ou l'utilisateur au choix entre plusieurs mots qui donc ouvre la possibilité d'un réseau de neurones entraîné par le renforcement plutôt que par une banque d'images. Ceci permettrait aussi de créer une intelligence artificielle qui s'adapte au style d'écriture de l'utilisateur, là rendant de plus en plus performante.
 ### PC :
 
 <!-- ORGANISATION -->
